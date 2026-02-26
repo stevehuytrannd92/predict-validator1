@@ -1,0 +1,13 @@
+{
+  "id": "0x00ed4446cd5d5463c20bf23bd172c873e0970f1484dd75f5e4dfbc115d3aad88",
+  "content": {
+    "action": 2,
+    "data": {
+      "address": "0xb27E2b951ab87081351cD736ab4558f3D6f509a4"
+    }
+  },
+  "intentHash": "0x00ed4446cd5d5463c20bf23bd172c873e0970f1484dd75f5e4dfbc115d3aad88",
+  "executionIndex": 1,
+  "deadline": 1772110614,
+  "createdBy": "validator"
+}
