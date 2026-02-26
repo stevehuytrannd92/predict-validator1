@@ -1,0 +1,20 @@
+{
+  "id": "0x4e927c7cd04389656a7353bef51a06f95c77dce3f88b5b1685fb61b52e7aa03c",
+  "content": {
+    "action": 0,
+    "data": [
+      {
+        "stakeId": 1,
+        "winner": 0
+      },
+      {
+        "stakeId": 2,
+        "winner": 1
+      }
+    ]
+  },
+  "intentHash": "0x4e927c7cd04389656a7353bef51a06f95c77dce3f88b5b1685fb61b52e7aa03c",
+  "executionIndex": 1,
+  "deadline": 1772113815,
+  "createdBy": "validator"
+}
